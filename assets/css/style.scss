@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.image-outline {
+  border: 2px solid #000000;
+}
+
+.center-text {
+  text-align: center;
+}
