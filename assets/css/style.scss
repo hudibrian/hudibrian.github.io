@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: #e4e3d3;
+  color: #585858;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .img-circle {
   border-radius: 50%;
 }
@@ -13,4 +19,12 @@
 
 .center-text {
   text-align: center;
+}
+
+a { 
+  color: #4a006a;
+}
+
+a:hover {
+  color: #8f45af;
 }
