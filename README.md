@@ -3,6 +3,11 @@
 
 **Place of Origin:** Indiana
 
+**Blog:** http://www.brianhudi.org
+
+**Employer:** Rightpoint in Chicago
+**Role:** Developer
+
 **Interests Include:**
  - Full Stack Development
  - Javascript
@@ -15,10 +20,7 @@
  - Podcasts
  - Inequality in the workspace
  
- **Employer:** Rightpoint in Chicago
- **Role:** Developer
  
- **Blog:** http://www.brianhudi.org
 
 ----
 
