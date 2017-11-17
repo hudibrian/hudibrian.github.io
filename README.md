@@ -18,7 +18,7 @@
  **Employer:** Rightpoint in Chicago
  **Role:** Developer
  
- **Affiliated Websites:** www.brianhudi.org
+ **Blog:** http://www.brianhudi.org
 
 ----
 
