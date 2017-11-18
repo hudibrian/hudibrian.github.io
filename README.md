@@ -3,7 +3,7 @@
 
 **Place of Origin:** Indiana
 
-**Blog:** [brianhudi.org](http://www.brianhudi.org)
+**Blog:** [brianhudi.org](https://www.brianhudi.org)
 
 **Employer:** Rightpoint in Chicago
 **Role:** Developer
